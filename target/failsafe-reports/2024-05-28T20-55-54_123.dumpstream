@@ -1,0 +1,4 @@
+# Created at 2024-05-28T20:55:55.156
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Nira\NiraTest\apitestcases\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+
